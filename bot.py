@@ -7,7 +7,7 @@ from telegram.ext import (
     ContextTypes,
 )
 
-TOKEN = "8755186358:AAHJJ6J2tIJS6cFHqWua_WDFBZOqsAQH2tA"
+TOKEN = "8755186358:AAE7oqTlWwQ9PSIkQmjtKPSc9drkF4UWfbI"
 CHANNEL = "https://t.me/natalyavassileva"
 
 users = {}
